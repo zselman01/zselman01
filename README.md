@@ -21,7 +21,7 @@ I am a passionate 4th year doctoral candidate in Experimental Psychology at the 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, R, SQL
 * **Libraries:** Pandas, NumPy
-* **Tools:** Git, Jupyter Notebooks
+* **Tools:** Git, GitHub, GitHub Pages, Jupyter Notebooks
 * **Domain Skills:** Statistical Modeling, Hypothesis Testing, Experimental Design
 
 ---
