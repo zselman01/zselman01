@@ -11,7 +11,7 @@ I am a passionate 4th year doctoral candidate in Experimental Psychology at the 
 
 ### 🔬 What I Do
 * 🔭 **Data Analysis & Modeling:** Building predictive models and running statistical tests.
-* 💻 **Machine Learning:** Developing algorithms using R and Python.
+<!--* 💻 **Machine Learning:** Developing algorithms using R and Python.-->
 * 📊 **Data Visualization:** Translating technical findings for non-technical teams using R, Python, and PowerPoint.
 * 💬 **Research & Problem Solving:** Designing experiments and handling large-scale datasets from scratch.
 * ⚡ **Fun fact:** My research models are three wild bird species, but I do not consider myself a birder :D 
@@ -26,13 +26,12 @@ I am a passionate 4th year doctoral candidate in Experimental Psychology at the 
 
 ---
 
-### 📂 *Featured Projects - LOADING*
+### 📂 *Featured Projects - Best Work*
 
-<!-- 
-* **[Project Name 1](Link-to-Repo):** 
-  * Brief description of the problem, the data used, and the machine learning model applied.
-  * *Tech:* Python, Pandas, Scikit-learn
-* **[Project Name 2](Link-to-Repo):** 
+* **[Ride Knox Simulation](https://github.com/zselman01/ride-knox-analysis):** 
+  * An end-to-end project using Python, Git and GitHub to answer two main questions from hypothetical managers from Ride Knox (bike co. in Knoxville, TN). This project serves to analyze and compare data from 2025 - 2026 on customer ridership and areas for growth at stations provided by Ride Knox. Data from 247,967 cleaned trips across 24 stations are explored and analyzed in this project.
+  * *Tech:* Python, Pandas
+<!--* **[Project Name 2](Link-to-Repo):** 
   * Brief description of a research or personal project involving data visualization or pipeline building.
   * *Tech:* R, SQL, ggplot2
 -->
